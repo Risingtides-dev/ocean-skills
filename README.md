@@ -25,6 +25,7 @@ npx skills use risingtides-dev/ocean-skills@concentric-corner-spacing | claude
 | Skill | Use when |
 |---|---|
 | [`concentric-corner-spacing`](skills/concentric-corner-spacing) | Nesting a rounded element inside a rounded container — a thumbnail in a card, a thumb in a toggle track, rows in a list, content inside a Dynamic-Island-style capsule — and the padding needs to read as visually even around the corners, not just on the straight edges. |
+| [`prove-the-test-can-fail`](skills/prove-the-test-can-fail) | Trusting a test suite, mutation gate, or CI check as evidence — before calling work done, porting code between languages, or claiming coverage. Catches checks that report success while proving nothing. |
 
 ## Why "concentric corners" matters
 
